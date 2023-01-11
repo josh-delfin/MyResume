@@ -1,1 +1,1 @@
-# MyResume.com
+# MyResume
